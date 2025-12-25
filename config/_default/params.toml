@@ -1,0 +1,10 @@
+enableSearch = true
+[article]
+showAuthor = false
+showReadingTime = false
+showTaxonomies = true
+showPagination = false
+[homepage]
+layout = "profile"
+[header]
+layout = "hybrid"

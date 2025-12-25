@@ -1,0 +1,45 @@
+[[main]]
+name = "blog"
+pageRef = "post"
+weight = 10
+
+[[main]]
+name = "knit"
+pageRef = "knit"
+weight = 10
+
+# [[main]]
+# name = "resume"
+# pageRef = "resume"
+# weight = 10
+
+[[main]]
+name = "projects"
+pageRef = "project"
+weight = 10
+
+[[main]]
+name = "github"
+url = "https://github.com/dunhamsteve"
+weight = 30
+[main.params]
+icon = "github"
+showName = false
+target = "_blank"
+
+# doesn't show up...
+[[main]]
+identifier = "search"
+weight = 91
+[main.params]
+action = "search"
+icon = "search"
+
+[[main]]
+identifier = "appearance"
+weight = 99
+[main.params]
+action = "appearance"
+# icon = "search"
+
+#[[footer]]

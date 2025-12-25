@@ -1,0 +1,14 @@
+title = "Steve Dunham"
+
+[params.author]
+name = "Steve Dunham"
+image = "avatar2.jpeg"
+headline = "sortware engineer"
+# bio = "Where does this show up on the screen?"
+links = [
+  { email = "mailto:dunhamsteve@gmail.com" },
+  { github = "https://github.com/dunhamsteve" },
+  { mastodon = "https://mathstodon.xyz/@dunhamsteve" },
+  { bluesky = "https://bsky.app/profile/dunhamsteve.bsky.social" },
+  { ravelry = "https://www.ravelry.com/people/dunhamsteve" }
+]

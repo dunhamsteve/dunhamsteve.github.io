@@ -1,0 +1,9 @@
+---
+title: Knitting
+cascade:
+    showSummary: true
+    showPagination: true
+---
+I just started knitting in late 2025, using tutorials from [Nimble Needles][1].
+
+[1]: https://nimble-needles.com/
