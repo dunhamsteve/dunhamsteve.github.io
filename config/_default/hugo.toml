@@ -1,3 +1,4 @@
 languageCode = "en"
 baseURL = "https://dunhamsteve.github.io"
 outputs.home = ["HTML", "RSS", "JSON"]
+theme = "congo"
