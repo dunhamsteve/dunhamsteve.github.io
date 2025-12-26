@@ -1,4 +1,5 @@
-
-{{if .Params.github }}
-<div><a href="{{.Params.github}}">{{ partial "icon.html" "github" }}</a></div>
-{{end}}
+{{ if .Params.github }}
+  <div>
+    <a href="{{ .Params.github }}">{{ partial "icon.html" "github" }}</a>
+  </div>
+{{ end }}
