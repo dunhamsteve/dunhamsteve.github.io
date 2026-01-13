@@ -9,4 +9,4 @@ layout: projects
 showDate: false
 showTaxonomies: true
 ---
-Some personal and work projects. Many of the personal projects are no longer actively maintained.
+This page lists some personal and work projects.  Many of the personal projects are no longer actively maintained. 

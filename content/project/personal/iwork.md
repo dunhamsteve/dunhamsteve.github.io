@@ -8,9 +8,9 @@ showDate: false
 stack: Go
 startDate: 2014-11
 status: On Hold
-summary: Go program to convert iWork documents to html
 title: iwork utilities
 weight: 99
+tags: [Go]
 ---
-This repository contains go code to convert iWork documents (Pages, Sheets, Keynote) to HTML. I haven't maintained it in the last decade.
+Go code to convert iWork documents (Pages, Sheets, Keynote) to HTML. I haven't maintained it in the last decade. I partially did this because I wanted longevity for my files and Apple deprecates file formats, but also because it was fun.
 

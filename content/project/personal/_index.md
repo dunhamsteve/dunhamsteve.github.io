@@ -1,4 +1,4 @@
 ---
-title: Personal Projects
+title: Selected Personal Projects
 weight: 10
 ---

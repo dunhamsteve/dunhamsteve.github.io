@@ -7,11 +7,8 @@ externalUrl: https://github.com/dunhamsteve/notesutils
 role: Creator
 startDate: 2017-12
 status: On Hold
-summary: Utilities to export documents from the Notes.app database.
 tags: Python
 title: Apple Notes Export Tools
 weight: 50
 ---
-I wrote utilities to extract documents from the Apple Notes database. I use this to back up my notes.
-
-I haven't looked at this in a while, the table decoding needs to be updated to handle changes on Apple's side, and newer features need to be handled.
+I wrote utilities to extract documents from the Apple Notes database. I use this to back up my notes. I haven't looked at this in a while, the table decoding needs to be updated to handle changes on Apple's side, and newer features need to be handled.

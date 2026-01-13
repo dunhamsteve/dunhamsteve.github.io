@@ -3,11 +3,12 @@ date: '2024-06-01'
 dates: 2024-present
 draft: false
 github: https://github.com/dunhamsteve/newt
+externalUrl: https://newt.cloakedarrow.com
 role: Creator
 stack: Newt, Javascript
 startDate: 2024-02
 summary: Newt is a self-hosted dependent typed programming language that I wrote.
-  It is similar to Idris or Agda.
+  It is similar to Idris or Agda. I wrote it to learn how to implement dependent typed languages.
 title: Newt
 weight: 10
 ---

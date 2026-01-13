@@ -2,3 +2,10 @@ languageCode = "en"
 baseURL = "https://dunhamsteve.github.io"
 outputs.home = ["HTML", "RSS", "JSON"]
 theme = "congo"
+# doesn't work for images
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+[pagination]
+# default 10
+pagerSize = 20

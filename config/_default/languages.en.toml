@@ -1,5 +1,4 @@
 title = "Steve Dunham"
-
 [params.author]
 name = "Steve Dunham"
 image = "avatar2.jpeg"
@@ -10,5 +9,5 @@ links = [
   { github = "https://github.com/dunhamsteve" },
   { mastodon = "https://mathstodon.xyz/@dunhamsteve" },
   { bluesky = "https://bsky.app/profile/dunhamsteve.bsky.social" },
-  { ravelry = "https://www.ravelry.com/people/dunhamsteve" }
+  { ravelry = "https://www.ravelry.com/people/dunhamsteve" },
 ]

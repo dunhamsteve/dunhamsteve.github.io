@@ -12,5 +12,5 @@ tags:
 - Electron
 - Postgresql
 title: Movie Magic Scheduling
-summary: A desktop application used to schedule movies and television shows
 ---
+A desktop application used to schedule movies and television shows. This application was a rewrite of an older Java application.

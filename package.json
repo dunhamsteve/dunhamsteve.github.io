@@ -19,5 +19,8 @@
   },
   "devDependencies": {
     "prettier-plugin-go-template": "^0.0.15"
+  },
+  "dependencies": {
+    "highlightjs": "^9.16.2"
   }
 }
