@@ -1,7 +1,20 @@
+
+
 [[main]]
 name = "blog"
 pageRef = "post"
 weight = 10
+
+
+[[main]]
+name = "resume"
+pageRef = "resume"
+weight = 5
+
+# [[main]]
+# name = "cook"
+# pageRef = "cook"
+# weight = 10
 
 [[main]]
 name = "knit"

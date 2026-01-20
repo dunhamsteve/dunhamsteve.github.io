@@ -42,9 +42,17 @@ In 2022, I intended to do Advent of Code in Rust. I wanted experience with the n
 
 I intended to take a look at OCaml for 2023, but I ended up doing Lean4 again because it was more fun.
 
-## [2024](https://github.com/dunhamsteve/newt/tree/main/aoc2024)
+## [2024 {{< icon "github" >}}](https://github.com/dunhamsteve/newt/tree/main/aoc2024)
 
 {{<badge>}}Newt{{</badge>}}
 
 2024 was a milestone for me. I completed Advent of Code in my own language, Newt. I had just gotten Newt into a state where this was possible at the end of November. Along the way I fixed a few bugs and enhanced the language. My ordered map didn't have a `delete` function at the beginning, and there was a bug to fix before I could make it typecheck, but I had thought to do this a few days before I needed it.
+
+## [2025 {{< icon "github" >}}](https://github.com/dunhamsteve/newt/tree/main/aoc2025)
+
+{{<badge>}}Newt{{</badge>}}
+
+Starting in 2025, Advent of code only runs for twelve days. I'm getting to the point where it is a bit played out, and I have other things that I want to do, so I was happy to see this. I did it in Newt again, and things went fairly well aside from Day 10. I mainly tried a linear algebra solution to solve the diophantine equations, spent a lot of time trying stuff, occasionally trying an alternative, search-based solution. I eventually cut and used Z3 which contains a diophantine equation solver. It feels like cheating, but it did take a little effort to build a library around the node module, wrapping javascript async in a monad. I did this, finished day 12.
+
+I think I know what I was getting wrong on the other solution. I needed to work with a different matrix. But I needed a break, so I'll finish that off later. I did add `Vect` and `Fin` to the library and fixed a few bugs in Newt, so the effort with the matricies was worth it regardless. I won't look at other solutions until I go back and make that work.
 
