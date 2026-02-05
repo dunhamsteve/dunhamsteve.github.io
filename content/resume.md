@@ -35,8 +35,6 @@ Entertainment Partners handles payroll and residuals for most movie and televisi
 - Consulted organization wide on architecture.
 - Served as a principal engineer and architect on three projects, detailed below.
 
-:::{typst:inset=10pt}
-
 ### [Movie Magic Scheduling](https://www.ep.com/movie-magic-scheduling/) — _Principal Engineer & Architect_
 
 Industry-standard, Electron-based desktop application used to plan the shooting schedule for movie and TV productions.
