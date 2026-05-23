@@ -1,5 +1,5 @@
 ---
-date: "2025-05-15"
+date: "2026-05-15"
 title: Erasure in Newt
 draft: false
 ---
